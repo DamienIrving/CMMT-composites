@@ -1,2 +1,3 @@
 introduction.tex
 figures/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_queen-maud/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_queen-maud.png
+figures/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_enderby/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_enderby.png
