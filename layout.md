@@ -2,7 +2,7 @@ introduction.tex
 figures/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_queen-maud/sf-hus-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_queen-maud.png
 figures/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_enderby/sf-hus-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_enderby.png
 figures/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_queen-mary/sf-hus-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_queen-mary.png
-figures/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_wilkes/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_wilkes.png
+figures/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_wilkes/sf-hus-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_wilkes.png
 figures/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_victoria/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_victoria.png
 figures/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_marie-byrd/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_marie-byrd.png
 figures/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_ellsworth/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_ellsworth.png
