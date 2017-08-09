@@ -5,4 +5,4 @@ figures/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_queen-ma
 figures/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_wilkes/sf-hus-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_wilkes.png
 figures/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_victoria/sf-hus-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_victoria.png
 figures/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_marie-byrd/sf-hus-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_marie-byrd.png
-figures/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_ellsworth/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_ellsworth.png
+figures/sf-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_ellsworth/sf-hus-composite_eraint_500hPa_daily-anom-wrt-all_native-reoriented_ellsworth.png
